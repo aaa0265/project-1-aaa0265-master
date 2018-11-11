@@ -1,0 +1,67 @@
+.germanytop{
+  height: 200px;
+  position: static;
+  background-image: url("germany.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.gcontent{
+  font-family: monospace;
+  position: static;
+  background-image: url("germanyflag.png");
+  background-repeat: no-repeat;
+  margin-left: 29%;
+  margin-top: 40px;
+}
+
+img{
+  width: 33%;
+  height: 33%;
+}
+
+h1{
+  text-align: center;
+  margin-top: 70px;
+  background-image: url("lineback.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.gintro {
+  padding-top: 0px;
+  font-size: 23px;
+  margin-left: 300px;
+  margin-top: 0px;
+}
+
+.link{
+  text-align: center;
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+
+img.taber{
+  content: url("./tauber.jpg");
+}
+img.taber:hover{
+  content: url("./bayern.jpg");
+}
+
+img.europa{
+  content: url("./Europa.JPG");
+}
+
+img.europa:hover{
+  content: url("./europamap.jpg");
+}
+
+img.zwinger{
+  content: url("./zwinger.jpg");
+}
+
+img.zwinger:hover{
+  content: url("./zwingermap.jpg");
+}

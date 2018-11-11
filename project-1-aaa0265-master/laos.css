@@ -1,0 +1,70 @@
+.laostop{
+  height: 200px;
+  position: static;
+  background-image: url("laoslogo2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.lcontent{
+  font-family: monospace;
+  position: static;
+  background-image: url("Laosflag.svg");
+  background-repeat: no-repeat;
+  background-size: 29%;
+  margin-left: 25%;
+  margin-top: 43px;
+}
+
+img{
+  width: 33%;
+  height: 33%;
+}
+
+h1{
+  text-align: center;
+  margin-top: 70px;
+  background-image: url("lineback.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.lintro{
+  padding-top: 0%;
+  font-size: 23px;
+  margin-left: 32%;
+  margin-top: 0px;
+}
+
+.link{
+  text-align: center;
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+
+
+img.blue{
+  content: url("./bluelagoon.jpg");
+}
+img.blue:hover{
+  content: url("./vangvien.png");
+}
+
+img.mong{
+  content: url("./mongmarket.jpg");
+}
+
+img.mong:hover{
+  content: url("./luangmap.png");
+}
+
+img.fall{
+  content: url("./falls.jpg");
+}
+
+img.fall:hover{
+  content: url("./luangmap.png");
+}

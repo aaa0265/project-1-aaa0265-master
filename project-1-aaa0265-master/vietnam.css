@@ -1,0 +1,46 @@
+.vietnamtop{
+  height: 200px;
+  position: static;
+  background-image: url("vietnam.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.vcontent{
+  font-family: monospace;
+  position: static;
+  background-image: url("vietnamflag.svg");
+  background-repeat: no-repeat;
+  background-size: 27%;
+  margin-left: 27%;
+  margin-top: 40px;
+}
+
+h1{
+  text-align: center;
+  margin-top: 70px;
+  background-image: url("lineback.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.vintro{
+  padding-top: 0%;
+  font-size: 23px;
+  margin-left: 30%;
+  margin-top: 0px;
+}
+
+.link{
+  text-align: center;
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+
+
+img{
+  width: 33%;
+  height: 33%;
+}
